@@ -1,0 +1,14 @@
+layout_spectrum: 0.4853903658222407
+typography_spectrum: 0.6810492549557239
+color:
+  brandStrength: 0.3844869378954172
+  lightness: 0.2843919924926013
+  saturation: 0.4420476187951863
+  rhythmicContrast: 0.1877911170013249
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: intact reflection
